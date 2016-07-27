@@ -1,14 +1,14 @@
-layout_spectrum: 0.23099820199422538
-typography_spectrum: 0.9722230976913124
+layout_spectrum: 0.9609425605740398
+typography_spectrum: 0.9677241838071495
 color:
-  brandStrength: 0.077374481363222
-  lightness: 0.10543066961690784
-  saturation: 0.7975050720851868
-  rhythmicContrast: 0.9649989998433739
+  brandStrength: 0.1189776782412082
+  lightness: 0.3454432033468038
+  saturation: 0.1080001825466752
+  rhythmicContrast: 0.09073319914750755
   brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
 name: Milton Workshop
