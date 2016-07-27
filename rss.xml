@@ -4,8 +4,15 @@
         <description><![CDATA[Milton Workshop]]></description>
         <link>https://thegrid.ai/milton-workshop-8rktu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 26 Jul 2016 19:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2016 06:01:34 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/milton-workshop-8rktu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Electricity]]></title>
+            <description><![CDATA[<article><h1>Electricity</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c5d412-ad74-4252-8ebb-ec0d0cb903c3.jpg"></article>]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f893013-0860-457f-848d-ff8e3b43ee28.jpg</link>
+            <guid isPermaLink="false">a13db3de-a1f2-45ec-8a56-67f87b9b32a0</guid>
+            <pubDate>Wed, 27 Jul 2016 06:01:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Drawbot and Mechanical Clock]]></title>
             <description><![CDATA[<article><h1>Drawbot and Mechanical Clock</h1><p>This is me making the smoke come out with electricity. And also with that soldering thing. I also made a mechanical clock and fart fart fart fart. And owowow APM there are gears made out of the mechanical clock. poopooweewee. This is also what I did in Maker Space I also made my own drawing robot. The end.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/057b5c4a555fc3eb82deaaaf5447d94cf5b90285.jpg"></article>]]></description>
@@ -81,13 +88,6 @@ the Earth and Mercury Venus. The end.
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9637b37d-035a-44fa-bf2e-8a83c37db266.jpg</link>
             <guid isPermaLink="false">0950ab6a-4eda-4633-b618-20daffc0ef9c</guid>
             <pubDate>Tue, 26 Jul 2016 18:54:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44c5d412-ad74-4252-8ebb-ec0d0cb903c3.jpg">]]></description>
-            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/9f893013-0860-457f-848d-ff8e3b43ee28.jpg</link>
-            <guid isPermaLink="false">a13db3de-a1f2-45ec-8a56-67f87b9b32a0</guid>
-            <pubDate>Tue, 26 Jul 2016 18:54:01 GMT</pubDate>
         </item>
     </channel>
 </rss>
